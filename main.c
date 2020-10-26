@@ -1,3 +1,10 @@
+/*
+* Project Name: Bank Management System
+* Author: Mahamudul Hasan
+* Email: hasaneee717@gmail.com
+* Programming Language: C
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
